@@ -1,0 +1,12 @@
+//设置本地依赖包
+dependencies {
+    //设置编译级别的依赖包
+    compile(
+            'mayland_rbac:rbac_api:0.1.0'
+    )
+    //测试级别的依赖包
+    testCompile(
+    )
+}
+//设置jar的主类
+mainClassName = 'com.gradle.AssetApiMain'

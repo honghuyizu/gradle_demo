@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 工程相关配置参数 -->
+<project_config>
+    <!-- 工程名称 -->
+    <project_name>资产管理系统</project_name>
+    <!-- 工程标识 -->
+    <project_code>asset</project_code>
+    <!-- 公司名称 -->
+    <company_name>上海蓄积金融信息服务有限公司</company_name>
+    <!-- 版权申明 -->
+    <copyright>上海蓄积金融信息服务有限公司版权所有 © 2016</copyright>
+    <!-- 加密策略 -->
+    <encryption_policy>default</encryption_policy>
+    <!-- 注册名称 -->
+    <registered_name>superadmin</registered_name>
+    <!-- 序列号 -->
+    <serial_number>1</serial_number>
+</project_config>

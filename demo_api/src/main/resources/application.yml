@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  dubbo:
+    application:
+      name: demo_api
+    registry:
+      protocol: zookeeper
+      address: 120.76.241.15:2181
+    protocol:
+      name: dubbo
+      port: 20880
+      host: localhost
+    scan: com.gradle.demo.service

@@ -1,0 +1,15 @@
+//设置本地依赖包
+dependencies {
+    //编译级别的依赖包
+    compile(
+            //velocity
+            'org.apache.velocity:velocity:1.7',
+            //base_fake_api
+            'base.framework:base_fake_api:0.1.0'
+    )
+    //测试级别的依赖包
+    testCompile(
+    )
+}
+//设置jar的主类
+mainClassName = 'com.hsbank.RbacFakeApiMain'

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 图形验证_API_配置参数 -->
+<api_config>
+    <!-- 工程根路径 -->
+    <root_dir>/home/test/tomcat_workspace/4_demo/webapps/asset_resource/</root_dir>
+    <!-- 工程根键接 -->
+    <root_url>http://test.jhs360.com:7004/asset_resource</root_url>
+    <!-- apiUrl：字符串上传 -->
+    <api_url_upload_by_string>/api/upload/by_string</api_url_upload_by_string>
+    <!-- apiUrl：二进制流上传 -->
+    <api_url_upload_by_byte>/api/upload/by_byte</api_url_upload_by_byte>
+    <!-- apiKey(api帐号) -->
+    <api_key>demo</api_key>
+    <!-- secretKey(api密码) -->
+    <secret_key>cdd96d3cc73d1dbdaffa03cc6cd7339b</secret_key>
+</api_config>
